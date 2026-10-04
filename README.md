@@ -6,9 +6,9 @@ Course project for Big Data Modelling and Management, MSc in Data Science and Ad
 
 ## What the project does
 
-- Models Airbnb data as documents in MongoDB.
+- Models Airbnb data as documents in MongoDB and analyses fields across collections.
 - Answers business questions with aggregation pipelines and document queries.
-- Analyses fields across collections.
+- Optimises query performance with indexes.
 - Runs against a containerised MongoDB instance in Docker, queried with PyMongo.
 
 ## Repository contents
