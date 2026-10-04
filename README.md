@@ -27,6 +27,9 @@ MongoDB · PyMongo · aggregation pipelines · Docker · Python
 ## Authors
 
 · Part A: 20250443 | Artem Polikarpov · [LinkedIn](https://www.linkedin.com/in/artem-polikarpov-068a4313) · [All projects](https://github.com/apnovaims)
+
 · Part B: 20250419 | Alexandre Batista
+
 · Part C: 20250015 | Isabel Liu
+
 · Part D: 20221689 | Simon Sazonov
